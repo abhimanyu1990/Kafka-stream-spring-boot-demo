@@ -1,5 +1,5 @@
 # Kafka-stream-spring-boot-demo
-This is demo project to showcase implementation of Kafka stream using Spring boot. This is basic implementation to show how we can use KafkaStream processing to process the IoT data before it will be consumed by consumer. In this case, I am trying to classify tempreature into HIGH, MODERATE, LOW, EXTREMELY_LOW before it will be consume by consumer.
+This is demo project to showcase implementation of Kafka stream using Spring boot. This is basic implementation to show how we can use KafkaStream processing to process the **IoT** data before it will be consumed by consumer. In this case, I am trying to classify tempreature into HIGH, MODERATE, LOW, EXTREMELY_LOW before it will be consume by consumer.
 
 
 
